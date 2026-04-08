@@ -1,0 +1,37 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 25 Oct 2025 22:11:37 at https://mixdesign.dev/themeforest/rayo/index-personal-portfolio.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://mixdesign.dev/themeforest/rayo/index-personal-portfolio.html -O1 "C:\Own Project Center\Edication template\harsha" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:12:10	Error: 	"Not Found" (404) at link https://mixdesign.dev/themeforest/rayo/img/og-image.jpg (from https://mixdesign.dev/themeforest/rayo/index-personal-portfolio.html)
+22:17:02	Warning: 	file not stored in cache due to bogus state (broken size, expected 11304794 got 8296320): https://mixdesign.dev/themeforest/rayo/video/1920x1080_video-03.mp4
+22:17:05	Warning: 	file not stored in cache due to bogus state (broken size, expected 10951346 got 10084352): https://mixdesign.dev/themeforest/rayo/video/1920x1080_video-04.mp4
+22:19:57	Error: 	"Not Found" (404) at link https://mixdesign.dev/themeforest/rayo/css/img/demo/screens/01.webp (from https://mixdesign.dev/themeforest/rayo/css/loaders/loader.min.css)
+22:19:57	Error: 	"Not Found" (404) at link https://mixdesign.dev/themeforest/rayo/css/img/demo/screens/02.webp (from https://mixdesign.dev/themeforest/rayo/css/loaders/loader.min.css)
+22:19:57	Error: 	"Not Found" (404) at link https://mixdesign.dev/themeforest/rayo/css/img/demo/screens/03.webp (from https://mixdesign.dev/themeforest/rayo/css/loaders/loader.min.css)
+22:19:57	Error: 	"Not Found" (404) at link https://mixdesign.dev/themeforest/rayo/css/img/demo/screens/04.webp (from https://mixdesign.dev/themeforest/rayo/css/loaders/loader.min.css)
+22:19:57	Error: 	"Not Found" (404) at link https://mixdesign.dev/themeforest/rayo/css/img/demo/screens/05.webp (from https://mixdesign.dev/themeforest/rayo/css/loaders/loader.min.css)
+22:19:57	Error: 	"Not Found" (404) at link https://mixdesign.dev/themeforest/rayo/css/img/demo/screens/06.webp (from https://mixdesign.dev/themeforest/rayo/css/loaders/loader.min.css)
+22:19:57	Error: 	"Not Found" (404) at link https://mixdesign.dev/themeforest/rayo/css/img/demo/screens/07.webp (from https://mixdesign.dev/themeforest/rayo/css/loaders/loader.min.css)
+22:19:57	Error: 	"Not Found" (404) at link https://mixdesign.dev/themeforest/rayo/css/img/demo/screens/08.webp (from https://mixdesign.dev/themeforest/rayo/css/loaders/loader.min.css)
+22:19:57	Error: 	"Not Found" (404) at link https://mixdesign.dev/themeforest/rayo/css/img/demo/screens/09.webp (from https://mixdesign.dev/themeforest/rayo/css/loaders/loader.min.css)
+22:19:57	Error: 	"Not Found" (404) at link https://mixdesign.dev/themeforest/rayo/css/img/demo/screens/01-d.webp (from https://mixdesign.dev/themeforest/rayo/css/loaders/loader.min.css)
+22:19:57	Error: 	"Not Found" (404) at link https://mixdesign.dev/themeforest/rayo/css/img/demo/screens/02-d.webp (from https://mixdesign.dev/themeforest/rayo/css/loaders/loader.min.css)
+22:19:57	Error: 	"Not Found" (404) at link https://mixdesign.dev/themeforest/rayo/css/img/demo/screens/03-d.webp (from https://mixdesign.dev/themeforest/rayo/css/loaders/loader.min.css)
+22:19:57	Error: 	"Not Found" (404) at link https://mixdesign.dev/themeforest/rayo/css/img/demo/screens/04-d.webp (from https://mixdesign.dev/themeforest/rayo/css/loaders/loader.min.css)
+22:19:57	Error: 	"Not Found" (404) at link https://mixdesign.dev/themeforest/rayo/css/img/demo/screens/05-d.webp (from https://mixdesign.dev/themeforest/rayo/css/loaders/loader.min.css)
+22:19:57	Error: 	"Not Found" (404) at link https://mixdesign.dev/themeforest/rayo/css/img/demo/screens/06-d.webp (from https://mixdesign.dev/themeforest/rayo/css/loaders/loader.min.css)
+22:19:57	Error: 	"Not Found" (404) at link https://mixdesign.dev/themeforest/rayo/css/img/demo/screens/07-d.webp (from https://mixdesign.dev/themeforest/rayo/css/loaders/loader.min.css)
+22:19:57	Error: 	"Not Found" (404) at link https://mixdesign.dev/themeforest/rayo/css/img/demo/screens/08-d.webp (from https://mixdesign.dev/themeforest/rayo/css/loaders/loader.min.css)
+22:19:57	Error: 	"Not Found" (404) at link https://mixdesign.dev/themeforest/rayo/css/img/demo/screens/09-d.webp (from https://mixdesign.dev/themeforest/rayo/css/loaders/loader.min.css)
+22:20:04	Error: 	"Not Found" (404) at link https://mixdesign.dev/themeforest/rayo/img/default-skin.png (from https://mixdesign.dev/themeforest/rayo/css/plugins.min.css)
+22:20:04	Error: 	"Not Found" (404) at link https://mixdesign.dev/themeforest/rayo/img/default-skin.svg (from https://mixdesign.dev/themeforest/rayo/css/plugins.min.css)
+22:20:04	Error: 	"Not Found" (404) at link https://mixdesign.dev/themeforest/rayo/img/preloader.gif (from https://mixdesign.dev/themeforest/rayo/css/plugins.min.css)
+22:20:04	Warning: 	Retry after error -4 (Incorrect length (10084352 Bytes, 10951346 expected)) at link https://mixdesign.dev/themeforest/rayo/video/1920x1080_video-04.mp4 (from https://mixdesign.dev/themeforest/rayo/index-software-development-company.html)
+22:20:04	Warning: 	Retry after error -4 (Incorrect length (8296320 Bytes, 11304794 expected)) at link https://mixdesign.dev/themeforest/rayo/video/1920x1080_video-03.mp4 (from https://mixdesign.dev/themeforest/rayo/index-freelancer-portfolio.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 52 seconds : 361 links scanned, 336 files written (168493714 bytes overall) [154020295 bytes received at 289511 bytes/sec], 20786760 bytes transferred using HTTP compression in 58 files, ratio 29%, 5.5 requests per connection
+(22 errors, 4 warnings, 0 messages)
